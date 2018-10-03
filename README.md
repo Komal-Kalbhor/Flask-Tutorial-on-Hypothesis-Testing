@@ -2,7 +2,7 @@
 
 ### Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions.
 
-I have created a web app in flask demonstrating the use case on hypothesis testing
+I have created a web app in flask demonstrating the use case on hypothesis testing.    
 Currently, this app runs on my local machine at 127.0.0.1:5000
 Flask version used -  1.0.2
 This application is developed on Ubuntu
