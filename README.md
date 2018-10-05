@@ -7,6 +7,11 @@
 - Flask version used -  1.0.2
 - This application is developed on Ubuntu
 - Steps to run this application
-#### 1. Open terminal where app.py is stored
-#### 2. Run command 'python app.py'
-#### 3. The application to ready to run at 127.0.0.1 on port 5000. Open browser at 127.0.0.1:5000
+##### 1. Open terminal where app.py is stored
+##### 2. Run command 'python app.py'
+##### 3. The application to ready to run at 127.0.0.1 on port 5000. Open browser at 127.0.0.1:5000
+
+#### Below are some screenshots from the application
+
+##### 1. Home page for the application
+
