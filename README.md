@@ -14,10 +14,14 @@
 #### Below are some screenshots from the application
 
 ##### 1. Home page for the application
-![My image](https://github.com/Komal-Kalbhor/Flask-Tutorial-on-Hypothesis-testing/blob/master/images/home_page1.jpg)
+![My image](https://github.com/Komal-Kalbhor/Flask-Tutorial-on-Hypothesis-testing/blob/master/images/home_page.jpg)
+
+
 
 ##### 2. Example case study for the application
 ![My image](https://github.com/Komal-Kalbhor/Flask-Tutorial-on-Hypothesis-testing/blob/master/images/case_study_1.jpg)
+
+
 
 ##### 3. App start page with links
 ![My image](https://github.com/Komal-Kalbhor/Flask-Tutorial-on-Hypothesis-testing/blob/master/images/start_here_1.jpg)
