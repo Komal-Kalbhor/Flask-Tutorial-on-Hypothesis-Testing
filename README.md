@@ -14,4 +14,5 @@
 #### Below are some screenshots from the application
 
 ##### 1. Home page for the application
+![My image](Komal-Kalbhor.github.com/Flask-Tutorial-on-Hypothesis-testing/images/image.jpg)
 
